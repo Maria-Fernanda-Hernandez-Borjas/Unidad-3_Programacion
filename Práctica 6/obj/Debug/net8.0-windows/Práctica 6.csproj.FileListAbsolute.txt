@@ -1,0 +1,16 @@
+C:\Users\maryf\Desktop\UNIDAD 2 Programacion\Práctica 6\bin\Debug\net8.0-windows\Práctica 6.exe
+C:\Users\maryf\Desktop\UNIDAD 2 Programacion\Práctica 6\bin\Debug\net8.0-windows\Práctica 6.deps.json
+C:\Users\maryf\Desktop\UNIDAD 2 Programacion\Práctica 6\bin\Debug\net8.0-windows\Práctica 6.runtimeconfig.json
+C:\Users\maryf\Desktop\UNIDAD 2 Programacion\Práctica 6\bin\Debug\net8.0-windows\Práctica 6.dll
+C:\Users\maryf\Desktop\UNIDAD 2 Programacion\Práctica 6\bin\Debug\net8.0-windows\Práctica 6.pdb
+C:\Users\maryf\Desktop\UNIDAD 2 Programacion\Práctica 6\obj\Debug\net8.0-windows\Práctica_6.Form1.resources
+C:\Users\maryf\Desktop\UNIDAD 2 Programacion\Práctica 6\obj\Debug\net8.0-windows\Práctica 6.csproj.GenerateResource.cache
+C:\Users\maryf\Desktop\UNIDAD 2 Programacion\Práctica 6\obj\Debug\net8.0-windows\Práctica 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maryf\Desktop\UNIDAD 2 Programacion\Práctica 6\obj\Debug\net8.0-windows\Práctica 6.AssemblyInfoInputs.cache
+C:\Users\maryf\Desktop\UNIDAD 2 Programacion\Práctica 6\obj\Debug\net8.0-windows\Práctica 6.AssemblyInfo.cs
+C:\Users\maryf\Desktop\UNIDAD 2 Programacion\Práctica 6\obj\Debug\net8.0-windows\Práctica 6.csproj.CoreCompileInputs.cache
+C:\Users\maryf\Desktop\UNIDAD 2 Programacion\Práctica 6\obj\Debug\net8.0-windows\Práctica 6.dll
+C:\Users\maryf\Desktop\UNIDAD 2 Programacion\Práctica 6\obj\Debug\net8.0-windows\refint\Práctica 6.dll
+C:\Users\maryf\Desktop\UNIDAD 2 Programacion\Práctica 6\obj\Debug\net8.0-windows\Práctica 6.pdb
+C:\Users\maryf\Desktop\UNIDAD 2 Programacion\Práctica 6\obj\Debug\net8.0-windows\Práctica 6.genruntimeconfig.cache
+C:\Users\maryf\Desktop\UNIDAD 2 Programacion\Práctica 6\obj\Debug\net8.0-windows\ref\Práctica 6.dll
